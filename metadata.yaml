@@ -1,0 +1,35 @@
+_repo: The-Macdermots-of-Ballycloran_29000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Macdermots of Ballycloran is a novel by Anthony Trollope. It was\
+  \ Trollope's first published novel, which he began in September 1843 and completed\
+  \ by June 1845. However, it was not published until 1847. The novel was \"an abysmal\
+  \ failure with the reading public.\"\nThe novel was written while Trollope was staying\
+  \ in the village of Drumsna, County Leitrim, Ireland.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29000'
+  wikidata: Q7749272
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+title: The Macdermots of Ballycloran
+url: http://www.gutenberg.org/ebooks/29000
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Macdermots_of_Ballycloran
