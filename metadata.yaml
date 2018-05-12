@@ -16,6 +16,8 @@ description: "The Macdermots of Ballycloran is a novel by Anthony Trollope. It w
   \ by June 1845. However, it was not published until 1847. The novel was \"an abysmal\
   \ failure with the reading public.\"\nThe novel was written while Trollope was staying\
   \ in the village of Drumsna, County Leitrim, Ireland.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29000#The-Macdermots-of-Ballycloran
 gutenberg_issued: '2009-05-31'
 gutenberg_type: Text
 identifiers:
